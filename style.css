@@ -1,0 +1,11 @@
+.red{
+    background-color: rgb(25, 0, 255);
+    transform: rotate(180deg);
+}
+
+
+
+.blue{
+    background-color: rgb(228, 188, 8);
+    transform: rotate(180deg);
+}
